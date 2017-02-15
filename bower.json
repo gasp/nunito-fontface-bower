@@ -1,9 +1,9 @@
 {
-    "name": "roboto-fontface",
-    "description": "A simple package providing the Roboto fontface.",
+    "name": "nunito-fontface",
+    "description": "A simple package providing the nunito fontface.",
     "version": "0.7.0",
     "main": [
-        "./css/roboto/roboto-fontface.css"
+        "./css/nunito/nunito-fontface.css"
     ],
     "ignore": [
         "**/.*",
