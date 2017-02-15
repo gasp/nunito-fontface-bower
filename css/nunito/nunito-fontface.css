@@ -139,7 +139,33 @@
 }
 
 
-/*extrabold is missing */
+@font-face {
+    font-family: 'nunito';
+    src: url('../../fonts/Nunito/Nunito-Extrabold.eot');
+    src: local('nunito Extrabold'), local('nunito-Extrabold'), url('../../fonts/Nunito/Nunito-Extrabold.eot?#iefix') format('embedded-opentype'), url('../../fonts/Nunito/Nunito-Extrabold.woff2') format('woff2'), url('../../fonts/Nunito/Nunito-Extrabold.woff') format('woff'), url('../../fonts/Nunito/Nunito-Extrabold.ttf') format('truetype'), url('../../fonts/Nunito/Nunito-Extrabold.svg#nunito') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nunito-Extrabold';
+    src: url('../../fonts/Nunito/Nunito-Extrabold.eot');
+    src: local('nunito Extrabold'), local('nunito-Extrabold'), url('../../fonts/Nunito/Nunito-Extrabold.eot?#iefix') format('embedded-opentype'), url('../../fonts/Nunito/Nunito-Extrabold.woff2') format('woff2'), url('../../fonts/Nunito/Nunito-Extrabold.woff') format('woff'), url('../../fonts/Nunito/Nunito-Extrabold.ttf') format('truetype'), url('../../fonts/Nunito/Nunito-Extrabold.svg#nunito') format('svg');
+}
+
+@font-face {
+    font-family: 'nunito';
+    src: url('../../fonts/Nunito/Nunito-ExtraboldItalic.eot');
+    src: local('nunito ExtraboldItalic'), local('nunito-ExtraboldItalic'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.eot?#iefix') format('embedded-opentype'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.woff2') format('woff2'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.woff') format('woff'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.ttf') format('truetype'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.svg#nunito') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'nunito-ExtraboldItalic';
+    src: url('../../fonts/Nunito/Nunito-ExtraboldItalic.eot');
+    src: local('nunito ExtraboldItalic'), local('nunito-ExtraboldItalic'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.eot?#iefix') format('embedded-opentype'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.woff2') format('woff2'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.woff') format('woff'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.ttf') format('truetype'), url('../../fonts/Nunito/Nunito-ExtraboldItalic.svg#nunito') format('svg');
+}
 
 @font-face {
     font-family: 'nunito';

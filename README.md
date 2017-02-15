@@ -25,19 +25,33 @@ to have access to "nunito" font face:
 * `css/nunito/sass/nunito-fontface.scss` - whole font family in SCSS
 * `css/nunito/less/nunito-fontface.less` - whole font family in LESS
 
-* `css/nunito-condensed/nunito-condensed-fontface.css` - whole font family compiled to CSS
-* `css/nunito-condensed/sass/nunito-condensed-fontface.scss` - whole font family in SCSS
-* `css/nunito-condensed/less/nunito-condensed-fontface.less` - whole font family in LESS
-
-* `css/nunito-slab/nunito-slab-fontface.css` - whole font family compiled to CSS
-* `css/nunito-slab/sass/nunito-slab-fontface.scss` - whole font family in SCSS
-* `css/nunito-slab/less/nunito-slab-fontface.less` - whole font family in LESS
 
 Importing whole family may be unnecessary and lead to huge build, so if you are
 using SCSS or LESS, you can import only individual weights by importing for example:
 
 * `css/nunito/sass/nunito-fontface-black.scss`
 * `css/nunito/sass/nunito-fontface-black-italic.scss`
+
+
+Variants are
+
+* Extralight (200)
+* Light (300)
+* Regular (400)
+* Medium (600)
+* Bold (700)
+* Extrabold (800)
+* Black (900)
+* ExtralightItalic (200 italic)
+* LightItalic (300 italic)
+* RegularItalic (400 italic)
+* MediumItalic (600 italic)
+* BoldItalic (700 italic)
+* ExtraboldItalic (800 italic)
+* BlackItalic (900 italic)
+
+
+
 
 ## Hinting
 
