@@ -1,6 +1,6 @@
 {
   "name": "nunito-fontface",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "A simple package providing the nunito fontface.",
   "main": "css/nunito/nunito-fontface.css",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/choffmeister/nunito-fontface-bower.git"
+    "url": "https://github.com/gasp/nunito-fontface-bower.git"
   },
   "keywords": [
     "nunito",
     "font",
     "fontface"
   ],
-  "author": "Christian Hoffmeister <mail@choffmeister.de> (http://choffmeister.de/)",
+  "author": "Gaspard Beernaert",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/choffmeister/nunito-fontface-bower/issues"
+    "url": "https://github.com/gasp/nunito-fontface-bower/issues"
   },
-  "homepage": "https://github.com/choffmeister/nunito-fontface-bower",
+  "homepage": "https://github.com/gasp/nunito-fontface-bower",
   "devDependencies": {
     "less": "2.7.1",
     "node-sass": "3.8.0"
