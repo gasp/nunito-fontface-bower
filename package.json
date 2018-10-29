@@ -1,6 +1,6 @@
 {
   "name": "nunito-fontface",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "A simple package providing the nunito fontface.",
   "main": "css/nunito/nunito-fontface.css",
   "scripts": {
